@@ -8,6 +8,10 @@
 This project replicates a **custodian bank risk management framework**, inspired by real-world bank operations.  
 It uses a multi-table dataset — *Customers, Accounts, Transactions, Loans, and Addresses* — to build an integrated analytics model for compliance and liquidity monitoring.
 
+This is a project that I covered based on a synthetic dataset uploaded on Kaggle: https://www.kaggle.com/datasets/testdatabox/finance-fraud-and-loans-dataset-testdatabox 
+
+My Analysis can be found here: https://github.com/shalg5/custodian_bank_compliance_risk_analytics/blob/main/BNY-Project.xlsx 
+
 The goal was to identify and quantify hidden risks through data-driven insights across three domains:
 
 1. **Anti-Money Laundering (AML) Detection**
